@@ -10,7 +10,7 @@
 | **iGPU**       | `Intel HD Graphics 5500`                  |
 | **Storage**    | `Western Digital Blue HD 1TB`  |
 | **Audio Code** | `Conexant 20751`                |
-| **Ethernet**  | `Realtek 8100`                |
+| **Ethernet**  | `Realtek RTL8100`                |
 | **OS**         | `macOS Big Sur 11.5.1 (20G80)`            |
 
 ### Working/Not working:
