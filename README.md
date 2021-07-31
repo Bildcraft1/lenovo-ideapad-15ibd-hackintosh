@@ -57,7 +57,7 @@
 <details>
 <summary>Misc</summary>
   
-- [x] Sleep/Wake using `hibernatemode` `0` 
+- [ ] Sleep/Wake not working, straight up disable Sleep Mode (read SleepFix.md)
 - [x] Sensors CPU, iGPU, Battery, NVMe, Fans
 - [x] Native NVRAM support
 - [x] Recovery (macOS) boot from OpenCore
